@@ -1,0 +1,11 @@
+.button {
+    padding: 8px 12px;
+    background-color: var(--color-primary);
+    border: 0;
+    color: var(--color-white);
+}
+
+.button-group {
+    padding: 10px;
+    display: flex;
+}
