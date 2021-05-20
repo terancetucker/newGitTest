@@ -3,6 +3,7 @@
     background-color: var(--color-primary);
     border: 0;
     color: var(--color-white);
+    min-width: 80px;
 }
 
 .button-group {
