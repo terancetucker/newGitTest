@@ -1,0 +1,41 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><html>\r\n<body>\r\n\t<div>\r\n\t\t<h1>Building a house</h1>\r\n\t\t<ul>\r\n\t\t\t<li> 99 Bricks</li>\r\n\t\t\t<li> 20 pieces of steel</li>\r\n\t\t\t<li> 2 hammers</li>\r\n\t\t</ul>\r\n\t</div>\r\n\t<div>\r\n\t\t<h3>List of needs</h3>\r\n\t\t<p> More material. </p>\r\n\t</div>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	
++++ b/index.html	
+@@ -11,6 +11,9 @@
+ 	<div>
+ 		<h3>List of needs</h3>
+ 		<p> More material. </p>
++		<ul>
++			<li>list should be filled today</li>
++		</ul>
+ 	</div>
+ </body>
+ </html>
+\ No newline at end of file
+Index: about-us.html
+===================================================================
+diff --git a/about-us.html b/about-us.html
+new file mode 100644
+--- /dev/null	
++++ b/about-us.html	
+@@ -0,0 +1,12 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>About Us</title>
++</head>
++<body>
++    <h1>About Us</h1>
++    <title>Who we really are</title>
++<p>This is a paragraph about us.</p>
++</body>
++</html>
+\ No newline at end of file
