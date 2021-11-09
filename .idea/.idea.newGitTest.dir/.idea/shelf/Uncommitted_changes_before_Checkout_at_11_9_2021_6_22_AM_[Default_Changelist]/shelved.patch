@@ -1,0 +1,80 @@
+Index: .idea/.idea.newGitTest.dir/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"375ef904-1f55-45d5-b7ff-00309de5672d\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"Terance Tucker &lt;terancetucker@gmail.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"tag2-test\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <changedPaths>\r\n      <option value=\"$PROJECT_DIR$/index.html\" />\r\n      <option value=\"$PROJECT_DIR$/about-us.html\" />\r\n    </changedPaths>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1qcBlSPPlPLrdwzlpxRepOVIRIs\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"vcs.Git\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"375ef904-1f55-45d5-b7ff-00309de5672d\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1617369152085</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1617369152085</updated>\r\n      <workItem from=\"1617369158988\" duration=\"1842000\" />\r\n      <workItem from=\"1634562136851\" duration=\"1528000\" />\r\n      <workItem from=\"1634564154695\" duration=\"3999000\" />\r\n      <workItem from=\"1635365403305\" duration=\"1882000\" />\r\n      <workItem from=\"1636396855632\" duration=\"122000\" />\r\n      <workItem from=\"1636397600247\" duration=\"735000\" />\r\n      <workItem from=\"1636398897548\" duration=\"143000\" />\r\n      <workItem from=\"1636400111057\" duration=\"819000\" />\r\n      <workItem from=\"1636401281211\" duration=\"980000\" />\r\n      <workItem from=\"1636459505159\" duration=\"3392000\" />\r\n      <workItem from=\"1636464109578\" duration=\"644000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Addign new list\">\r\n      <created>1634564356869</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634564356869</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Commiting changes now\">\r\n      <created>1636461434878</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1636461434878</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Cherried\">\r\n      <created>1636461857053</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1636461857053</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"adding css files. Also adding new index layout items.&#10;&#10;(cherry picked from commit 1b0b1b32e9d36a01b878b3c1e9c6bfbbf87695b7)\">\r\n      <created>1636464742710</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1636464742710</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UnityCheckinConfiguration\" checkUnsavedScenes=\"true\" />\r\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"false\" />\r\n  <component name=\"UnityUnitTestConfiguration\" currentTestLauncher=\"NUnit\" />\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"list-items\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\r\n    <MESSAGE value=\"Addign new list\" />\r\n    <MESSAGE value=\"Commiting changes now\" />\r\n    <MESSAGE value=\"Cherried\" />\r\n    <MESSAGE value=\"adding css files. Also adding new index layout items.&#10;&#10;(cherry picked from commit 1b0b1b32e9d36a01b878b3c1e9c6bfbbf87695b7)\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"adding css files. Also adding new index layout items.&#10;&#10;(cherry picked from commit 1b0b1b32e9d36a01b878b3c1e9c6bfbbf87695b7)\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/.idea.newGitTest.dir/.idea/workspace.xml b/.idea/.idea.newGitTest.dir/.idea/workspace.xml
+--- a/.idea/.idea.newGitTest.dir/.idea/workspace.xml	
++++ b/.idea/.idea.newGitTest.dir/.idea/workspace.xml	
+@@ -4,7 +4,11 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="375ef904-1f55-45d5-b7ff-00309de5672d" name="Default Changelist" comment="" />
++    <list default="true" id="495e3bd8-39e2-478d-a9e1-7e134274be01" name="Default Changelist 3" comment="" />
++    <list id="375ef904-1f55-45d5-b7ff-00309de5672d" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/.idea.newGitTest.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.newGitTest.dir/.idea/workspace.xml" afterDir="false" />
++    </list>
++    <list id="f84a3560-82d7-44d0-a6e6-4b5fd02ef53a" name="Default Changelist 2" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -59,12 +63,13 @@
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
++    <task id="Default" summary="Default task">
+       <changelist id="375ef904-1f55-45d5-b7ff-00309de5672d" name="Default Changelist" comment="" />
++      <changelist id="f84a3560-82d7-44d0-a6e6-4b5fd02ef53a" name="Default Changelist 2" comment="" />
+       <created>1617369152085</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1617369152085</updated>
++      <updated>1636465715857</updated>
+       <workItem from="1617369158988" duration="1842000" />
+       <workItem from="1634562136851" duration="1528000" />
+       <workItem from="1634564154695" duration="3999000" />
+@@ -75,7 +80,7 @@
+       <workItem from="1636400111057" duration="819000" />
+       <workItem from="1636401281211" duration="980000" />
+       <workItem from="1636459505159" duration="3392000" />
+-      <workItem from="1636464109578" duration="644000" />
++      <workItem from="1636464109578" duration="1591000" />
+     </task>
+     <task id="LOCAL-00001" summary="Addign new list">
+       <created>1634564356869</created>
+@@ -105,7 +110,24 @@
+       <option name="project" value="LOCAL" />
+       <updated>1636464742710</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="adding css files. Also adding new index layout items.&#10;&#10;(cherry picked from commit 1b0b1b32e9d36a01b878b3c1e9c6bfbbf87695b7)">
++      <created>1636464825368</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1636464825368</updated>
++    </task>
++    <task active="true" id="LOCAL-00006" summary="Default Changelist 3">
++      <changelist id="495e3bd8-39e2-478d-a9e1-7e134274be01" name="Default Changelist 3" comment="This is my comment" />
++      <created>1636465715817</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1636465715857</updated>
++      <workItem from="1636465716109" duration="772000" />
++    </task>
++    <option name="localTasksCounter" value="7" />
++    <option name="trackContextForNewChangelist" value="true" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -145,5 +167,6 @@
+     <MESSAGE value="Cherried" />
+     <MESSAGE value="adding css files. Also adding new index layout items.&#10;&#10;(cherry picked from commit 1b0b1b32e9d36a01b878b3c1e9c6bfbbf87695b7)" />
+     <option name="LAST_COMMIT_MESSAGE" value="adding css files. Also adding new index layout items.&#10;&#10;(cherry picked from commit 1b0b1b32e9d36a01b878b3c1e9c6bfbbf87695b7)" />
++    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+   </component>
+ </project>
+\ No newline at end of file
